@@ -1,0 +1,1 @@
+ErrorDocument 404 /base/404.html
